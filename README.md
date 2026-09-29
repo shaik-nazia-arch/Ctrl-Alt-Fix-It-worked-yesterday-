@@ -16,3 +16,6 @@ Incident resolved
 Retain the solution
      ↓
 Future incidents become easier to investigate
+
+link: 
+https://monumental-khapse-b6b78e.netlify.app/
